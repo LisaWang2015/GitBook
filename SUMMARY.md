@@ -2,5 +2,5 @@
 
 * [Introduction](README.md)
 * [Chapter1](part1/ch1context.md)
-    * [MarkdownPro](art1/MarkdownPro.md)
+    * [MarkdownPro](part1/MarkdownPro.md)
 
