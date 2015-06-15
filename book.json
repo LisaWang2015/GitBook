@@ -1,13 +1,5 @@
 {
     "version": "0.0.1",
-    "plugins": [
-        "gitbook-plugin-betterchinese"
-    ],
-    "pluginsConfig": {
-        "gitbook-plugin-betterchinese": {
-            "plugins": [
-                "gitbook-plugin-betterchinese"
-            ]
-        }
-    }
+    "plugins": [],
+    "pluginsConfig": {}
 }
